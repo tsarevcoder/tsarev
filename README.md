@@ -1,9 +1,5 @@
 # tsarev
-rthgt
-t
-gt
-g
-tg
-tg
-t
-thththth
+Young dev 
+
+MY SKILLS:
+Java,js,ts,nestjs,nextjs 
